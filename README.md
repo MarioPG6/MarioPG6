@@ -2,7 +2,7 @@
 ### 💻 Languages and Tools
 
 <p align="lefto">
-  <img src="https://skillicons.dev/icons?i=java,spring,linux,nodejs,postgres,git,github,vscode,bash&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,spring,linux,nodejs,postgres,git,github,vscode,androidstudio,react,bash&theme=light" />
 </p>
 
 ---
